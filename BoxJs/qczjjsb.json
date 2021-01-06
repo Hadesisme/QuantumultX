@@ -1,14 +1,14 @@
 {
-"id": "ziye.app.sub",
-"name": "ziye 汽车之家极速版订阅",
-"author": "@ZIYE",
+"id": "Hades.app.sub",
+"name": "Hades汽车之家极速版",
+"author": "@Hades",
 "icon": "",
 "repo": "https://github.com/ziye12/QCZJSPEED",
 "apps": [{
 "id": "qczjspeed",
 "name": "汽车之家极速版",
 "keys": ["GetUserInfourl", "GetUserInfoheader", "coinbody", "taskbody", "activitybody",  "Goldcoinbody",  "videobody", "Welfarevideobody", "Welfarebody", "addCoinbody", "addCoin2body", "reportAssbody", "reportAssheader", "cointowalletbody","GetUserInfourl2", "GetUserInfoheader2", "coinbody2", "taskbody2", "activitybody2", "Goldcoinbody2",  "videobody2", "Welfarevideobody2", "Welfarebody2", "addCoinbody2", "addCoin2body2", "reportAssbody2", "reportAssheader2", "cointowalletbody2"],
-"author": "@ziye",
+"author": "@Hades",
 "settings": [{
 "id": "qczjSuffix",
 "name": "当前账号",
