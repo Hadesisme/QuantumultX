@@ -2,7 +2,7 @@
 "id": "ziye.app.sub",
 "name": "ziye 汽车之家极速版订阅",
 "author": "@ZIYE",
-"icon": "https://raw.githubusercontent.com/Hadesisme/QuantumultX/main/1A793410-D14E-4F75-AB3B-2E7D957E6332.jpeg?token=APTSE4VVNOBNN5VASMGD2XS76XR26%EF%BC%89",
+"icon": "",
 "repo": "https://github.com/ziye12/QCZJSPEED",
 "apps": [{
 "id": "qczjspeed",
@@ -32,7 +32,7 @@
 }
 ],
 "repo": "https://github.com/ziye12/QCZJSPEED/blob/main/Task/qczjspeed.js",
-"icons": ["https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/qczjspeed.jpg", "https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/qczjspeed.jpg"],
+"icons": ["https://raw.githubusercontent.com/Orz-3/task/master/qczj.png", "https://raw.githubusercontent.com/Orz-3/task/master/qczj.png"],
 "script": "https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js"
 }]
 }
