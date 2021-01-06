@@ -8,7 +8,7 @@
 "id": "qqread",
 "name": "QQ阅读小程序",
 "keys": ["qqreadbd", "qqreadtimeurl", "qqreadtimehd", "qqreadbd2", "qqreadtimeurl2", "qqreadtimehd2", "qqreadbd3", "qqreadtimeurl3", "qqreadtimehd3", "qqreadbd4", "qqreadtimeurl4", "qqreadtimehd4"],
-"author": "@ziye",
+"author": "@Hades",
 "settings": [{
 "id": "qeSuffix",
 "name": "当前账号",
