@@ -5,7 +5,7 @@
 "icon": "",
 "repo": "https://github.com/Hadesisme/QuantumultX",
 "apps": [{
-"id": "qqread",
+"id": "qqreadxcx",
 "name": "QQ阅读小程序",
 "keys": ["qqreadbd", "qqreadtimeurl", "qqreadtimehd", "qqreadbd2", "qqreadtimeurl2", "qqreadtimehd2", "qqreadbd3", "qqreadtimeurl3", "qqreadtimehd3", "qqreadbd4", "qqreadtimeurl4", "qqreadtimehd4"],
 "author": "@Ziye12",
