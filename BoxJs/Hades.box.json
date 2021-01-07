@@ -34,6 +34,8 @@
 "repo": "https://raw.githubusercontent.com/Hadesisme/QuantumultX/blob/main/Task/qqreads.js",
 "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/qqread.png", "https://raw.githubusercontent.com/58xinian/icon/master/qqread.png"],
 "script": "https://raw.githubusercontent.com/Hadesisme/QuantumultX/main/Task/qqreads.js"
+}
+{
 "id": "qczjspeed",
 "name": "汽车之家极速版",
 "keys": ["GetUserInfourl", "GetUserInfoheader", "coinbody", "taskbody", "activitybody",  "Goldcoinbody",  "videobody", "Welfarevideobody", "Welfarebody", "addCoinbody", "addCoin2body", "reportAssbody", "reportAssheader", "cointowalletbody","GetUserInfourl2", "GetUserInfoheader2", "coinbody2", "taskbody2", "activitybody2", "Goldcoinbody2",  "videobody2", "Welfarevideobody2", "Welfarebody2", "addCoinbody2", "addCoin2body2", "reportAssbody2", "reportAssheader2", "cointowalletbody2"],
