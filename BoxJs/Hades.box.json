@@ -8,7 +8,7 @@
 "id": "qqread",
 "name": "QQ阅读小程序",
 "keys": ["qqreadbd", "qqreadtimeurl", "qqreadtimehd", "qqreadbd2", "qqreadtimeurl2", "qqreadtimehd2", "qqreadbd3", "qqreadtimeurl3", "qqreadtimehd3", "qqreadbd4", "qqreadtimeurl4", "qqreadtimehd4"],
-"author": "@Hades",
+"author": "@Ziye12",
 "settings": [{
 "id": "qeSuffix",
 "name": "当前账号",
@@ -37,7 +37,7 @@
 "id": "qczjspeed",
 "name": "汽车之家极速版",
 "keys": ["GetUserInfourl", "GetUserInfoheader", "coinbody", "taskbody", "activitybody",  "Goldcoinbody",  "videobody", "Welfarevideobody", "Welfarebody", "addCoinbody", "addCoin2body", "reportAssbody", "reportAssheader", "cointowalletbody","GetUserInfourl2", "GetUserInfoheader2", "coinbody2", "taskbody2", "activitybody2", "Goldcoinbody2",  "videobody2", "Welfarevideobody2", "Welfarebody2", "addCoinbody2", "addCoin2body2", "reportAssbody2", "reportAssheader2", "cointowalletbody2"],
-"author": "@Hades",
+"author": "@Ziye12",
 "settings": [{
 "id": "qczjSuffix",
 "name": "当前账号",
