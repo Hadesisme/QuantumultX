@@ -9,7 +9,7 @@
    "id": "tls",
    "name": "特仑苏小程序",
    "keys": ["tlsurl1", "tlsheader1", "tlsurl2", "tlsheader2", "tlsurl3", "tlsheader3"],
-   "author": "@ziye",
+   "author": "@ziye12",
    "settings": [{
      "id": "tlsSuffix",
      "name": "当前账号",
