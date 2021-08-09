@@ -8,7 +8,7 @@
   {
    "id": "tls",
    "name": "特仑苏小程序",
-   "keys": ["tlsurl", "tlsheader", "tlsurl2", "tlsheader2", "tlsurl3", "tlsheader3"],
+   "keys": ["tlsurl1", "tlsheader1", "tlsurl2", "tlsheader2", "tlsurl3", "tlsheader3"],
    "author": "@ziye",
    "settings": [{
      "id": "tlsSuffix",
