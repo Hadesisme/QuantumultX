@@ -49,19 +49,19 @@
                 },{
                     "id": "tlshyidA",
                     "name": "好友A",
-                    "val": "64926",
+                    "val": "112736",
                     "type": "number",
                     "desc": "默认内置，自行修改"
                 }, {
                     "id": "tlshyidB",
                     "name": "好友B",
-                    "val": "70405",
+                    "val": "113190",
                     "type": "number",
                     "desc": "默认内置，自行修改"
                 }, {
                     "id": "tlshyidC",
                     "name": "好友C",
-                    "val": "73261",
+                    "val": "1502511",
                     "type": "number",
                     "desc": "默认内置，自行修改"
                 }
